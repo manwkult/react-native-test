@@ -1,0 +1,6 @@
+export const SELECT_CATEGORY = 'SELECT_CATEGORY'
+export const FILTER = 'FILTER'
+export const APPLY_FILTERS = 'APPLY_FILTERS'
+export const ADD_TO_CART = 'ADD_TO_CART'
+export const SHOPPING = 'SHOPPING'
+export const PURCHASE = 'PURCHASE'
